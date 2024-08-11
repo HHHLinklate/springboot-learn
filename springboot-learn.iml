@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="AdditionalModuleElements">
+    <content url="file://$MODULE_DIR$/springboot-learn/springboot-learn" dumb="true">
+      <sourceFolder url="file://$MODULE_DIR$/springboot-learn/springboot-learn/mybatisplus-learn/src/main" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/springboot-learn/springboot-learn/mybatisplus-learn/src/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/springboot-learn/springboot-learn/springboot-learn-linklate-demo/src" isTestSource="false" />
+    </content>
+  </component>
+</module>
