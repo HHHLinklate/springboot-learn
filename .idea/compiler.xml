@@ -7,15 +7,17 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="springboot-learn-linklate-demo" />
-        <module name="mybatisplus-learn" />
+        <module name="springboot-learn" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="mybatisplus-learn" target="17" />
+      <module name="springboot-learn-linklate" target="1.5" />
+      <module name="springboot-learn-linklate-demo" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="mybatisplus-learn" options="-parameters" />
-      <module name="springboot-learn" options="" />
       <module name="springboot-learn-linklate-demo" options="-parameters" />
     </option>
   </component>

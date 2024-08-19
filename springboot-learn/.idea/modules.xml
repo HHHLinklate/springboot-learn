@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/mybatisplus-learn/mybatisplus-learn.iml" filepath="$PROJECT_DIR$/mybatisplus-learn/mybatisplus-learn.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-learn.iml" filepath="$PROJECT_DIR$/springboot-learn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-learn-linklate-demo/springboot-learn-linklate-demo.iml" filepath="$PROJECT_DIR$/springboot-learn-linklate-demo/springboot-learn-linklate-demo.iml" />
     </modules>
   </component>
 </project>

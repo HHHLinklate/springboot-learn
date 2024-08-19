@@ -1,0 +1,6 @@
+{
+  "timestamp": "2024-08-08T01:12:19.585+00:00",
+  "status": 500,
+  "error": "Internal Server Error",
+  "path": "/boot/user/delete"
+}

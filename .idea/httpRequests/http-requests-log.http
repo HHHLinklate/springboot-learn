@@ -1,0 +1,36 @@
+GET http://localhost:80/boot/user/delete
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-08-11T165549.500.json
+
+###
+
+GET http://localhost:80/boot/user/delete
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-08-08T091219.500.json
+
+###
+
+GET http://localhost:80/boot/user/delete
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-08-08T091212.500.json
+
+###
+
+GET http://localhost:80/boot/user/delete
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-08-08T091034.500.json
+
+###
+

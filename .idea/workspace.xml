@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0d5a447d-cd59-4148-b60d-99f4e54112e5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/springboot-learn/springboot-learn/mybatisplus-learn/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-learn/springboot-learn/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-learn/springboot-learn/springboot-learn-linklate-demo/target/classes/application.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-learn-linklate-demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-learn/springboot-learn/springboot-learn-linklate-demo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-learn-linklate-demo/src/main/java/com/linklate/learn/springboot/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-learn/springboot-learn/springboot-learn-linklate-demo/src/main/java/com/linklate/learn/springboot/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-learn-linklate-demo/src/main/java/com/linklate/learn/springboot/advice/LogAdvice.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-learn/springboot-learn/springboot-learn-linklate-demo/src/main/java/com/linklate/learn/springboot/advice/LogAdvice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-learn-linklate-demo/src/main/java/com/linklate/learn/springboot/config/WebMvcConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-learn/springboot-learn/springboot-learn-linklate-demo/src/main/java/com/linklate/learn/springboot/config/WebMvcConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-learn-linklate-demo/src/main/java/com/linklate/learn/springboot/controller/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-learn/springboot-learn/springboot-learn-linklate-demo/src/main/java/com/linklate/learn/springboot/controller/HelloController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-learn-linklate-demo/src/main/java/com/linklate/learn/springboot/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-learn/springboot-learn/springboot-learn-linklate-demo/src/main/java/com/linklate/learn/springboot/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-learn-linklate-demo/src/main/java/com/linklate/learn/springboot/interceptor/MyInterceptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-learn/springboot-learn/springboot-learn-linklate-demo/src/main/java/com/linklate/learn/springboot/interceptor/MyInterceptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-learn-linklate-demo/src/main/java/com/linklate/learn/springboot/mapper/UserMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-learn/springboot-learn/springboot-learn-linklate-demo/src/main/java/com/linklate/learn/springboot/mapper/UserMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-learn-linklate-demo/src/main/java/com/linklate/learn/springboot/pojo/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-learn/springboot-learn/springboot-learn-linklate-demo/src/main/java/com/linklate/learn/springboot/pojo/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-learn-linklate-demo/src/main/java/com/linklate/learn/springboot/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-learn/springboot-learn/springboot-learn-linklate-demo/src/main/java/com/linklate/learn/springboot/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-learn-linklate-demo/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-learn/springboot-learn/mybatisplus-learn/src/main/resources/application.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-learn-linklate-demo/src/main/resources/mapper/UserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-learn/springboot-learn/springboot-learn-linklate-demo/src/main/resources/mapper/UserMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-learn-linklate-demo/src/main/resources/static/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-learn/springboot-learn/springboot-learn-linklate-demo/src/main/resources/static/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-learn-linklate-demo/target/classes/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-learn/springboot-learn/springboot-learn-linklate-demo/src/main/resources/application.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-learn-linklate-demo/target/classes/com/linklate/learn/springboot/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-learn/springboot-learn/springboot-learn-linklate-demo/target/classes/com/linklate/learn/springboot/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-learn-linklate-demo/target/classes/com/linklate/learn/springboot/advice/LogAdvice.class" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-learn/springboot-learn/springboot-learn-linklate-demo/target/classes/com/linklate/learn/springboot/advice/LogAdvice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-learn-linklate-demo/target/classes/com/linklate/learn/springboot/config/WebMvcConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-learn/springboot-learn/springboot-learn-linklate-demo/target/classes/com/linklate/learn/springboot/config/WebMvcConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-learn-linklate-demo/target/classes/com/linklate/learn/springboot/controller/HelloController.class" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-learn/springboot-learn/springboot-learn-linklate-demo/target/classes/com/linklate/learn/springboot/controller/HelloController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-learn-linklate-demo/target/classes/com/linklate/learn/springboot/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-learn/springboot-learn/springboot-learn-linklate-demo/target/classes/com/linklate/learn/springboot/controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-learn-linklate-demo/target/classes/com/linklate/learn/springboot/interceptor/MyInterceptor.class" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-learn/springboot-learn/springboot-learn-linklate-demo/target/classes/com/linklate/learn/springboot/interceptor/MyInterceptor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-learn-linklate-demo/target/classes/com/linklate/learn/springboot/mapper/UserMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-learn/springboot-learn/springboot-learn-linklate-demo/target/classes/com/linklate/learn/springboot/mapper/UserMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-learn-linklate-demo/target/classes/com/linklate/learn/springboot/pojo/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-learn/springboot-learn/springboot-learn-linklate-demo/target/classes/com/linklate/learn/springboot/pojo/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-learn-linklate-demo/target/classes/com/linklate/learn/springboot/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-learn/springboot-learn/springboot-learn-linklate-demo/target/classes/com/linklate/learn/springboot/service/UserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-learn-linklate-demo/target/classes/mapper/UserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-learn/springboot-learn/springboot-learn-linklate-demo/target/classes/mapper/UserMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-learn-linklate-demo/target/classes/static/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-learn/springboot-learn/springboot-learn-linklate-demo/target/classes/static/login.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="customMavenHome" value="$USER_HOME$/environment/maven/3.9.8/apache-maven-3.9.8" />
+        <option name="localRepository" value="$USER_HOME$/environment/maven/3.9.8/apache-maven-3.9.8/repo" />
+        <option name="mavenHomeTypeForPersistence" value="CUSTOM" />
+        <option name="useMavenConfig" value="false" />
+        <option name="userSettingsFile" value="$USER_HOME$/environment/maven/3.9.8/apache-maven-3.9.8/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2kCMMbYNlSpgqTEABaCGmdTnf3j" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;HTTP 请求.generated-requests | #2.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP 请求.generated-requests | #3.executor&quot;: &quot;Run&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Spring Boot.Main.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;zulu-1.8&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/linklate/IdeaProjects/github/springboot-learn-linklate/springboot-learn/springboot-learn/mybatisplus-learn/src/main/resources&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;项目&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/springboot-learn/springboot-learn/mybatisplus-learn/src/main/resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/springboot-learn/springboot-learn" />
+    </key>
+  </component>
+  <component name="RunManager" selected="HTTP 请求.generated-requests | #3">
+    <configuration name="generated-requests | #2" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="2" requestIdentifier="#2" runType="运行单个请求">
+      <method v="2" />
+    </configuration>
+    <configuration name="generated-requests | #3" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="3" requestIdentifier="#3" runType="运行单个请求">
+      <method v="2" />
+    </configuration>
+    <configuration name="Main" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springboot-learn-linklate-demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.linklate.learn.springboot.Main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.linklate.learn.springboot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="HTTP 请求.generated-requests | #3" />
+        <item itemvalue="Spring Boot.Main" />
+        <item itemvalue="HTTP 请求.generated-requests | #2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-azul-17.0.10-4caba194b151-d69ea429" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d5a447d-cd59-4148-b60d-99f4e54112e5" name="Changes" comment="" />
+      <created>1722783059777</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1722783059777</updated>
+      <workItem from="1722783060811" duration="6208000" />
+      <workItem from="1722953234017" duration="1184000" />
+      <workItem from="1722954437629" duration="665000" />
+      <workItem from="1722955110784" duration="3443000" />
+      <workItem from="1723042036279" duration="5546000" />
+      <workItem from="1723365795416" duration="6090000" />
+      <workItem from="1723374277686" duration="376000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/environment/maven/3.9.8/apache-maven-3.9.8/repo/org/springframework/spring-jdbc/5.3.24/spring-jdbc-5.3.24-sources.jar!/org/springframework/jdbc/core/JdbcTemplate.java</url>
+          <line>436</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

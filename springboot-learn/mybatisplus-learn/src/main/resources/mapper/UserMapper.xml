@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "https://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<!-- namespace = 接口的全限定符 -->
+<mapper namespace="com.linklate.learn.springboot.mapper.UserMapper">
+
+    <!--方法， 写的就是查询结合反省， page的范型    -->
+    <select id="queryByAge" resultType="user">
+        select * from user where age > #{age}
+    </select>
+
+
+</mapper>
